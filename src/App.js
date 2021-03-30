@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 // import logo from './logo.svg';
-import { CardList } from '/Users/evi-edor/Desktop/reactcoding/monsters-rolodex/src/components/card-list/card-list.component.jsx';
-import { SearchBox } from '/Users/evi-edor/Desktop/reactcoding/monsters-rolodex/src/components/search-box/search-box.component.jsx';
+import { CardList } from './components/card-list/card-list.component.jsx';
+import { SearchBox } from './components/search-box/search-box.component.jsx';
 
 import './App.css';
 
