@@ -1,6 +1,6 @@
 import React from 'react';
 
-import '/Users/evi-edor/Desktop/reactcoding/monsters-rolodex/src/components/card/card.styles.css';
+import './card.styles.css';
 
 export const Card = (props) => (
     <div className='card-container'>

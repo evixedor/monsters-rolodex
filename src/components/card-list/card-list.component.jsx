@@ -1,8 +1,8 @@
 import React from 'react';
 
-import { Card } from '/Users/evi-edor/Desktop/reactcoding/monsters-rolodex/src/components/card/card.component.jsx';
+import { Card } from '../card/card.component.jsx';
 
-import '/Users/evi-edor/Desktop/reactcoding/monsters-rolodex/src/components/card-list/card-list.styles.css';
+import './card-list.styles.css';
 
 export const CardList = (props) => (
     <div className='card-list'>
